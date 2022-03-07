@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="4773" name=" Caracol FHD" group-title="Colombia" tvg-country="Co", Caracol
+#EXTINF:0 type="stream" channelId="4773" name="Latin CO Caracol FHD" group-title="Colombia" tvg-country="Co", Caracol
 http://hdhd.tk:80/772299/772299/5942
-#EXTINF:0 type="stream" channelId="3783" name="RCN" group-title="Colombia" tvg-country="Co", RCN
+#EXTINF:0 type="stream" channelId="3783" name="Latin CO RCN" group-title="Colombia" tvg-country="Co", RCN
 http://hdhd.tk:80/772299/772299/5950
-#EXTINF:0 type="stream" channelId="1052" name=" TNT HD" group-title="Latino 1" tvg-country="Co", TNT
+#EXTINF:0 type="stream" channelId="1052" name="Latino: TNT HD" group-title="Latino 1" tvg-country="Co", TNT
 http://hdhd.tk:80/772299/772299/24309
-#EXTINF:0 type="stream" channelId="1719" name="Paramount HD" group-title="Latino 1" tvg-country="Co", Paramount
+#EXTINF:0 type="stream" channelId="1719" name="Latino: Paramount HD" group-title="Latino 1" tvg-country="Co", Paramount
 http://hdhd.tk:80/772299/772299/24322
-#EXTINF:0 type="stream" channelId="50" name="Animal Planet HD" group-title="Latino 1" tvg-country="Co", Animal Planet
+#EXTINF:0 type="stream" channelId="50" name="Latino: Animal Planet HD" group-title="Latino 1" tvg-country="Co", Animal Planet
 http://hdhd.tk:80/772299/772299/24245
-#EXTINF:0 type="stream" channelId="1330" name="HBO HD" group-title="Latino 1", HBO HD
+#EXTINF:0 type="stream" channelId="1330" name="Latino: HBO HD" group-title="Latino 1", HBO HD
 http://hdhd.tk:80/772299/772299/24338
-#EXTINF:0 type="stream" channelId="935" name="HBO2 HD" group-title="Latino 1", HBO2 HD
+#EXTINF:0 type="stream" channelId="935" name="Latino: HBO2 HD" group-title="Latino 1", HBO2 HD
 http://hdhd.tk:80/772299/772299/24339
-#EXTINF:0 type="stream" channelId="2584" name="HBO Family HD" group-title="Latino 1", HBO Family HD
+#EXTINF:0 type="stream" channelId="2584" name="Latino: HBO Family HD" group-title="Latino 1", HBO Family HD
 http://hdhd.tk:80/772299/772299/24340
-#EXTINF:0 type="stream" channelId="2585" name="HBO Plus HD" group-title="Latino 1", HBO Plus HD
+#EXTINF:0 type="stream" channelId="2585" name="Latino: HBO Plus HD" group-title="Latino 1", HBO Plus HD
 http://hdhd.tk:80/772299/772299/24341
 #EXTINF:0 type="stream" channelId="-1" name="UK: Sky Sport Premier League FHD" group-title="UK Sports", UK: Sky Sport Premier League FHD
 http://hdhd.tk:80/772299/772299/26346
@@ -28,47 +28,102 @@ http://hdhd.tk:80/772299/772299/21884
 #EXTINF:0 type="stream" channelId="-1" name="US HBO" group-title="USA Movies" logo="https://static.epg.best/us/HBO.us.png", US HBO
 http://hdhd.tk:80/772299/772299/356
 #EXTINF:0 type="stream" name="WIN SPORTS+" group-title="DEPORTES", WIN SPORTS +
-http://tptv.cz:80/CA7DF4D60F13235/ksiix8jk1D/139331
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/139331
 #EXTINF:0 type="stream" name="WINSPORTS" group-title="DEPORTES", WIN SPORTS
-http://tptv.cz:80/CA7DF4D60F13235/ksiix8jk1D/30647
-#EXTINF:0 type="stream" name="BEIN SPORTS 1" logo="https://static.epg.best/ca/beINSportsGlobal.ca.png", group-title="DEPORTES",BEIN SPORTS 1  
-http://tptv.cz:80/CA7DF4D60F13235/ksiix8jk1D/149622
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30647
+#EXTINF:-1 type="stream" name="BEIN SPORTS 1" logo="https://static.epg.best/ca/beINSportsGlobal.ca.png", group-title="DEPORTES",BEIN SPORTS 1  
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/149622
 #EXTINF:0 type="stream" name="BEIN SPORTS 2" logo="https://static.epg.best/ca/beINSportsGlobal.ca.png", group-title="DEPORTES",BEIN SPORTS 2 
-http://tptv.cz:80/CA7DF4D60F13235/ksiix8jk1D/149623
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/149623
 #EXTINF:0 type="stream" name="BEIN SPORTS 3" logo="https://static.epg.best/ca/beINSportsGlobal.ca.png", group-title="DEPORTES",BEIN SPORTS 3
-http://tptv.cz:80/CA7DF4D60F13235/ksiix8jk1D/149624
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/149624
 #EXTINF:0 type="stream" name="DIRECT TV SPORTS " group-title="DEPORTES", DIRECT TV SPORT 
-http://tptv.cz:80/CA7DF4D60F13235/ksiix8jk1D/30743
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30743
 #EXTINF:0 type="stream" name="DIRECT TV SPORTS 2" group-title="DEPORTES", DIRECT TV  SPORT 2
-http://tptv.cz:80/CA7DF4D60F13235/ksiix8jk1D/30742
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30742
 #EXTINF:0 type="stream" name="DIRECT TV SPORTS PLUS" group-title="DEPORTES", DIRECT TV  SPORT PLUS
-http://tptv.cz:80/CA7DF4D60F13235/ksiix8jk1D/30741
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30741
 #EXTINF:0 type="stream" name="WIN SPORTS +" group-title="DEPORTES", WIN SPORTS + ALTERNO 2
-http://tptv.cz:80/CA7DF4D60F13235/ksiix8jk1D/190260
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/190260
 #EXTINF:0 type="stream" name="UNIVERSAL CRIME" group-title="LATINO",UNIVERSAL CRIME
-http://tptv.cz:80/CA7DF4D60F13235/ksiix8jk1D/30589
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30589
 #EXTINF:0 type="stream" name="UNIVERSAL COMEDY" group-title="LATINO", UNIVERSAL COMEDY
-http://tptv.cz:80/CA7DF4D60F13235/ksiix8jk1D/30587
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30587
 #EXTINF:0 type="stream" name="UNIVERSAL PREMIER" group-title="LATINO", UNIVERSAL PREMIER
-http://tptv.cz:80/CA7DF4D60F13235/ksiix8jk1D/30584
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30584
 #EXTINF:0 type="stream" name="ESPN" group-title="DEPORTES",ESPN 
-http://tptv.cz:80/CA7DF4D60F13235/ksiix8jk1D/30583
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30583
 #EXTINF:0 type="stream" name="ESPN 2 HD" group-title="DEPORTES",ESPN 2 HD
-http://tptv.cz:80/CA7DF4D60F13235/ksiix8jk1D/30582
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30582
 #EXTINF:0 type="stream" name="ESPN 3 HD" group-title="DEPORTES",ESPN 3 HD
-http://tptv.cz:80/CA7DF4D60F13235/ksiix8jk1D/30581
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30581
 #EXTINF:0 type="stream" name="ESPNPUERTO RICO CDM" group-title="EVANGELIO",PUERTO RICO CDM
-http://tptv.cz:80/CA7DF4D60F13235/ksiix8jk1D/271769
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/271769
 #EXTINF:0 type="stream" name="WARNER CHANNEL" group-title="LATINO", WARNER CHANNEL
-http://tptv.cz:80/CA7DF4D60F13235/ksiix8jk1D/30674
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30674
 #EXTINF:0 type="stream" name="TNT" group-title="LATINO",TNT
-http://tptv.cz:80/CA7DF4D60F13235/ksiix8jk1D/30668
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30668
 #EXTINF:0 type="stream" name="PARAMOUNT" group-title="LATINO",PARAMOUNT
-http://tptv.cz:80/CA7DF4D60F13235/ksiix8jk1D/30621
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30621
 #EXTINF:0 type="stream" name="BBC" group-title="NEWS",BBC
-http://tptv.cz:80/CA7DF4D60F13235/ksiix8jk1D/17305
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/17305
 #EXTINF:0 type="stream" name="AL KASS 1" group-title="DEPORTES",AL KASS 1
-http://tptv.cz:80/CA7DF4D60F13235/ksiix8jk1D/57102
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/57102
+#EXTINF:0 type="stream" name="NBA GAME 1" group-title="NBA",NBA GAME 1
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/232809
+#EXTINF:0 type="stream" name="NBA GAME 2" group-title="NBA",NBA GAME 2
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/232810
+#EXTINF:0 type="stream" name="NBA GAME 3" group-title="NBA",NBA GAME 3
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/232811
+#EXTINF:0 type="stream" name="NBA GAME 4" group-title="NBA",NBA GAME 4
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/232812
+#EXTINF:0 type="stream" name="NBA GAME 5" group-title="NBA",NBA GAME 5
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/232813
+#EXTINF:0 type="stream" name="NBA GAME 6" group-title="NBA",NBA GAME 6
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/232814
+#EXTINF:0 type="stream" name="NBA GAME 7" group-title="NBA",NBA GAME 7
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/233034
+#EXTINF:0 type="stream" name="NBA GAME 8" group-title="NBA",NBA GAME 8
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/234139.
+#EXTINF:0 type="stream" name="NBA GAME 9" group-title="NBA",NBA GAME 9
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/234141
+#EXTINF:0 type="stream" name="NBA GAME 10" group-title="NBA",NBA GAME 10
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/234142
+#EXTINF:0 type="stream" name="NBA GAME 11" group-title="NBA",NBA GAME 11
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/234143
+#EXTINF:0 type="stream" name="NBA GAME 12" group-title="NBA",NBA GAME 12
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/238595
+#EXTINF:0 type="stream" name="NBA GAME 13" group-title="NBA",NBA GAME 13
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/238596
+#EXTINF:0 type="stream" name="NBA GAME 14" group-title="NBA",NBA GAME 14
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/238597
+#EXTINF:0 type="stream" name="NBA GAME 15" group-title="NBA",NBA GAME 15
+http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/238598
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
