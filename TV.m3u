@@ -33,9 +33,9 @@ http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/139331
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30647
 #EXTINF:-1 type="stream" name="BEIN SPORTS 1" group-title="DEPORTES",BEIN SPORTS 1  
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/149622
-#EXTINF:0 type="stream" name="BEIN SPORTS 1" group-title="DEPORTES", BEIN SPORTS 1
+#EXTINF:0 type="stream" name="BEIN SPORTS 2" group-title="DEPORTES", BEIN SPORTS 2
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/149623
-#EXTINF:0 type="stream" name="BEIN SPORTS 3" logo="https://static.epg.best/ca/beINSportsGlobal.ca.png", group-title="DEPORTES",BEIN SPORTS 3
+#EXTINF:0 type="stream" name="BEIN SPORTS 3" group-title="DEPORTES", BEIN SPORTS 3
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/149624
 #EXTINF:0 type="stream" name="DIRECT TV SPORTS " group-title="DEPORTES", DIRECT TV SPORT 
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30743
