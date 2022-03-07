@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="4773" name="Latin CO Caracol FHD" group-title="Colombia" tvg-country="Co", Caracol
+#EXTINF:0 type="stream" channelId="4773" name=" Caracol FHD" group-title="Colombia" tvg-country="Co", Caracol
 http://hdhd.tk:80/772299/772299/5942
-#EXTINF:0 type="stream" channelId="3783" name="Latin CO RCN" group-title="Colombia" tvg-country="Co", RCN
+#EXTINF:0 type="stream" channelId="3783" name="RCN" group-title="Colombia" tvg-country="Co", RCN
 http://hdhd.tk:80/772299/772299/5950
-#EXTINF:0 type="stream" channelId="1052" name="Latino: TNT HD" group-title="Latino 1" tvg-country="Co", TNT
+#EXTINF:0 type="stream" channelId="1052" name=" TNT HD" group-title="Latino 1" tvg-country="Co", TNT
 http://hdhd.tk:80/772299/772299/24309
-#EXTINF:0 type="stream" channelId="1719" name="Latino: Paramount HD" group-title="Latino 1" tvg-country="Co", Paramount
+#EXTINF:0 type="stream" channelId="1719" name="Paramount HD" group-title="Latino 1" tvg-country="Co", Paramount
 http://hdhd.tk:80/772299/772299/24322
-#EXTINF:0 type="stream" channelId="50" name="Latino: Animal Planet HD" group-title="Latino 1" tvg-country="Co", Animal Planet
+#EXTINF:0 type="stream" channelId="50" name="Animal Planet HD" group-title="Latino 1" tvg-country="Co", Animal Planet
 http://hdhd.tk:80/772299/772299/24245
-#EXTINF:0 type="stream" channelId="1330" name="Latino: HBO HD" group-title="Latino 1", HBO HD
+#EXTINF:0 type="stream" channelId="1330" name="HBO HD" group-title="Latino 1", HBO HD
 http://hdhd.tk:80/772299/772299/24338
-#EXTINF:0 type="stream" channelId="935" name="Latino: HBO2 HD" group-title="Latino 1", HBO2 HD
+#EXTINF:0 type="stream" channelId="935" name="HBO2 HD" group-title="Latino 1", HBO2 HD
 http://hdhd.tk:80/772299/772299/24339
-#EXTINF:0 type="stream" channelId="2584" name="Latino: HBO Family HD" group-title="Latino 1", HBO Family HD
+#EXTINF:0 type="stream" channelId="2584" name="HBO Family HD" group-title="Latino 1", HBO Family HD
 http://hdhd.tk:80/772299/772299/24340
-#EXTINF:0 type="stream" channelId="2585" name="Latino: HBO Plus HD" group-title="Latino 1", HBO Plus HD
+#EXTINF:0 type="stream" channelId="2585" name="HBO Plus HD" group-title="Latino 1", HBO Plus HD
 http://hdhd.tk:80/772299/772299/24341
 #EXTINF:0 type="stream" channelId="-1" name="UK: Sky Sport Premier League FHD" group-title="UK Sports", UK: Sky Sport Premier League FHD
 http://hdhd.tk:80/772299/772299/26346
